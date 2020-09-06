@@ -4,10 +4,12 @@
 npm install 
 
 **Run client side** 
-cd client 
+cd client
+
 node app
 
 **Run server side** 
 cd server
+
 npm start
 
